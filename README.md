@@ -1,19 +1,21 @@
 # 🧠 Study Group: Connectionism and Neural Networks  
 **Summer 2025 (Weekly Meetings)**
 
-![Study Group Banner](https://sora.chatgpt.com/g/gen_01jv8bbpj6efgtrr66dc3a1jt4) <!-- Replace with actual path to your image -->
+![Study Group Banner](./images/banner.png)
 
-Welcome to our summer study group focused on the foundations and development of connectionist models and neural networks. We will be working through key chapters from the *Parallel Distributed Processing* (PDP) volumes and supplementing our learning with modern resources.
+Summer study group focused on the foundations and development of connectionist models and neural networks. We will be working through key chapters from the *Parallel Distributed Processing* (PDP) volumes and supplementing our learning with modern resources.
 
 ---
 
 ## 📚 Weekly Record
 
-| Week | Topic |
-|------|-------|
-| 1    | PDP Chapter 1: *The Appeal of Parallel Distributed Processing* |
-| 2    | PDP Chapter 2: *A General Framework for Parallel Distributed Processing* |
-| ...  | _To be updated as we progress_ |
+| Week | Date & Time           | Topic                                                                    |
+|------|-----------------------|--------------------------------------------------------------------------|
+| 1    | 2025-05-09 @ 1:30 PM  | Initial gathering                                                        |
+| 2    | 2025-05-14 @ 11:00 AM | PDP Chapter 1: *The Appeal of Parallel Distributed Processing*           |
+| 3    | 2025-05-23 @ 10:30 AM | PDP Chapter 2: *A General Framework for Parallel Distributed Processing* |
+| ...  | _To be scheduled_     | _To be updated_                                                          |
+
 
 ---
 
@@ -47,5 +49,6 @@ Welcome to our summer study group focused on the foundations and development of 
 
 ---
 
-## 📂 Repository Structure
+## 🙌 How to Contribute
 
+Feel free to fork the repository, add notes or code for the week, and create pull requests.
