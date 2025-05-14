@@ -1,9 +1,16 @@
 # 🧠 Study Group: Connectionism and Neural Networks  
 **Summer 2025 (Weekly Meetings)**
 
-![Study Group Banner](./images/banner.png)
+Summer study group focused on connectionism and neural networks. We will be working through chapters from the *Parallel Distributed Processing* (PDP) volumes and doing hands-on coding of neural networks that can be used for cognitive science research.
 
-Summer study group focused on the foundations and development of connectionist models and neural networks. We will be working through key chapters from the *Parallel Distributed Processing* (PDP) volumes and supplementing our learning with modern resources.
+---
+
+## 👥 Members
+- Ambar Narwal
+- Hoyoung Doh
+- Phillip Hegeman
+- Antonio Monaco
+- Pin Yang
 
 ---
 
