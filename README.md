@@ -6,11 +6,11 @@ Summer study group focused on connectionism and neural networks. We will be work
 ---
 
 ## 👥 Members
-Ambar Narwal
-Hoyoung Doh
-Phillip Hegeman
-Antonio Monaco
-Pin Yang
+- Ambar Narwal
+- Hoyoung Doh
+- Phillip Hegeman
+- Antonio Monaco
+- Pin Yang
 
 ---
 
