@@ -1,7 +1,7 @@
 # 🧠 Study Group: Connectionism and Neural Networks  
 **Summer 2025 (Weekly Meetings)**
 
-![Study Group Banner](./images/banner.png)
+<img src="./images/banner.png" alt="Study Group Banner" width="600"/>
 
 Summer study group focused on the foundations and development of connectionist models and neural networks. We will be working through key chapters from the *Parallel Distributed Processing* (PDP) volumes and supplementing our learning with modern resources.
 
