@@ -5,6 +5,15 @@ Summer study group focused on the foundations and development of connectionist m
 
 ---
 
+## 👥 Members
+Ambar Narwal
+Hoyoung Doh
+Phillip Hegeman
+Antonio Monaco
+Pin Yang
+
+---
+
 ## 📚 Weekly Record
 
 | Week | Date & Time           | Topic                                                                    |
