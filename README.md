@@ -1,7 +1,7 @@
 # 🧠 Study Group: Connectionism and Neural Networks  
 **Summer 2025 (Weekly Meetings)**
 
-Summer study group focused on connectionism and neural networks. We will be working through chapters from the *Parallel Distributed Processing* (PDP) volumes and doing hands-on coding of neural networks that can be used for cognitive science research.
+Summer study group on connectionism and neural networks. We will be reading chapters from the *Parallel Distributed Processing* (PDP) volumes and doing hands-on coding of neural networks that could be used for cognitive science research.
 
 ---
 
@@ -26,16 +26,16 @@ Summer study group focused on connectionism and neural networks. We will be work
 
 ---
 
-## 📖 [Core Resources](https://drive.google.com/drive/folders/1CWfNRVvX5e1uEaGo1LqKQE2Uifb7_kho?usp=drive_link)
-
+## 📖 Core Resources
+[Link](https://drive.google.com/drive/folders/1CWfNRVvX5e1uEaGo1LqKQE2Uifb7_kho?usp=drive_link)
 1. Rumelhart, D. E., McClelland, J. L., & PDP Research Group. (1986). *Parallel distributed processing: Explorations in the microstructure of cognition: Foundations (Vol. 1)*. MIT Press.
 2. McClelland, J. L., Rumelhart, D. E., & PDP Research Group. (1987). *Parallel distributed processing: Explorations in the microstructure of cognition: Psychological and biological models (Vol. 2)*. MIT Press.
 3. **Code**: COGS319 Labs & Solutions
 
 ---
 
-## 📘 [Additional Resources](https://drive.google.com/drive/folders/1CWfNRVvX5e1uEaGo1LqKQE2Uifb7_kho?usp=drive_link)
-
+## 📘 Additional Resources
+[Link](https://drive.google.com/drive/folders/1CWfNRVvX5e1uEaGo1LqKQE2Uifb7_kho?usp=drive_link)
 1. Jurafsky, D., & Martin, J. H. *Speech and Language Processing*.  
    *A comprehensive introduction to computational models of language, covering CNNs, RNNs, and Transformers.*
 
