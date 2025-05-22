@@ -27,7 +27,7 @@ Summer study group on connectionism and neural networks. We will be reading chap
 ---
 
 ## 📖 Core Resources
-[Link](https://drive.google.com/drive/folders/1CWfNRVvX5e1uEaGo1LqKQE2Uifb7_kho?usp=drive_link](https://indiana-my.sharepoint.com/:f:/g/personal/hdoh_iu_edu/EsDl4uiI0SxEqpRWWw4i8q4BhocvKALSkL_ujO5O0CPb-w?e=UGUuSl)
+[Link](https://indiana-my.sharepoint.com/:f:/g/personal/hdoh_iu_edu/EsDl4uiI0SxEqpRWWw4i8q4BhocvKALSkL_ujO5O0CPb-w?e=UGUuSl)
 1. Rumelhart, D. E., McClelland, J. L., & PDP Research Group. (1986). *Parallel distributed processing: Explorations in the microstructure of cognition: Foundations (Vol. 1)*. MIT Press.
 2. McClelland, J. L., Rumelhart, D. E., & PDP Research Group. (1987). *Parallel distributed processing: Explorations in the microstructure of cognition: Psychological and biological models (Vol. 2)*. MIT Press.
 3. **Code**: COGS319 Labs & Solutions
@@ -35,7 +35,7 @@ Summer study group on connectionism and neural networks. We will be reading chap
 ---
 
 ## 📘 Additional Resources
-[Link](https://drive.google.com/drive/folders/1CWfNRVvX5e1uEaGo1LqKQE2Uifb7_kho?usp=drive_link](https://indiana-my.sharepoint.com/:f:/g/personal/hdoh_iu_edu/EsDl4uiI0SxEqpRWWw4i8q4BhocvKALSkL_ujO5O0CPb-w?e=UGUuSl)
+[Link](https://indiana-my.sharepoint.com/:f:/g/personal/hdoh_iu_edu/EsDl4uiI0SxEqpRWWw4i8q4BhocvKALSkL_ujO5O0CPb-w?e=UGUuSl)
 1. Jurafsky, D., & Martin, J. H. *Speech and Language Processing*.  
    *A comprehensive introduction to computational models of language, covering CNNs, RNNs, and Transformers.*
 
