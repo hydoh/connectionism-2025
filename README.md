@@ -1,7 +1,7 @@
 # 🧠 Study Group: Connectionism and Neural Networks  
 **Summer 2025 (Weekly Meetings)**
 
-Summer study group on connectionism and neural networks. We will be reading chapters from the *Parallel Distributed Processing* (PDP) volumes and doing hands-on coding of neural networks that could be used for cognitive science research.
+Summer study group on connectionism and neural networks. We will read chapters from the *Parallel Distributed Processing* (PDP) volumes and do hands-on coding of neural networks that could be used for cognitive science research.
 
 ---
 
@@ -14,6 +14,9 @@ Summer study group on connectionism and neural networks. We will be reading chap
 
 ---
 
+## Zoom Link
+[https://iu.zoom.us/j/87594458181](https://iu.zoom.us/j/87594458181)
+
 ## 📚 Weekly Record
 
 | Week | Date & Time           | Topic                                                                    |
@@ -21,6 +24,7 @@ Summer study group on connectionism and neural networks. We will be reading chap
 | 1    | 2025-05-09 @ 1:30 PM  | Initial gathering                                                        |
 | 2    | 2025-05-14 @ 11:00 AM | PDP Chapter 1: *The Appeal of Parallel Distributed Processing*           |
 | 3    | 2025-05-23 @ 10:30 AM | PDP Chapter 2: *A General Framework for Parallel Distributed Processing* |
+| 4    | 2025-05-30 @ 10:30 AM | *COGS319 - Lab 2 - Neural Networks That Don't Learn.ipynb*               |
 | ...  | _To be scheduled_     | _To be updated_                                                          |
 
 
