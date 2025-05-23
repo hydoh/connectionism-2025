@@ -14,8 +14,10 @@ Summer study group on connectionism and neural networks. We will read chapters f
 
 ---
 
-## Zoom Link
+## 🗣 Zoom Link
 [https://iu.zoom.us/j/87594458181](https://iu.zoom.us/j/87594458181)
+
+---
 
 ## 📚 Weekly Record
 
