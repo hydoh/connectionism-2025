@@ -26,22 +26,21 @@ Summer study group on connectionism and neural networks. We will read chapters f
 | 1    | 2025-05-09 @ 1:30 PM  | Initial gathering                                                        |
 | 2    | 2025-05-14 @ 11:00 AM | PDP Chapter 1: *The Appeal of Parallel Distributed Processing*           |
 | 3    | 2025-05-23 @ 10:30 AM | PDP Chapter 2: *A General Framework for Parallel Distributed Processing* |
-| 4    | 2025-05-30 @ 10:30 AM | *COGS319 - Lab 2 - Neural Networks That Don't Learn.ipynb*               |
+| 4    | 2025-05-30 @ 10:30 AM | COGS319 - Lab 2 - *Neural Networks That Don't Learn.ipynb*               |
 | ...  | _To be scheduled_     | _To be updated_                                                          |
 
 
 ---
 
-## 📖 Core Resources
+## 📖 Resources
 [Link](https://indiana-my.sharepoint.com/:f:/g/personal/hdoh_iu_edu/EsDl4uiI0SxEqpRWWw4i8q4BhocvKALSkL_ujO5O0CPb-w?e=UGUuSl)
+
+### Core resources
 1. Rumelhart, D. E., McClelland, J. L., & PDP Research Group. (1986). *Parallel distributed processing: Explorations in the microstructure of cognition: Foundations (Vol. 1)*. MIT Press.
 2. McClelland, J. L., Rumelhart, D. E., & PDP Research Group. (1987). *Parallel distributed processing: Explorations in the microstructure of cognition: Psychological and biological models (Vol. 2)*. MIT Press.
 3. **Code**: COGS319 Labs & Solutions
 
----
-
-## 📘 Additional Resources
-[Link](https://indiana-my.sharepoint.com/:f:/g/personal/hdoh_iu_edu/EsDl4uiI0SxEqpRWWw4i8q4BhocvKALSkL_ujO5O0CPb-w?e=UGUuSl)
+### Additional Resources
 1. Jurafsky, D., & Martin, J. H. *Speech and Language Processing*.  
    *A comprehensive introduction to computational models of language, covering CNNs, RNNs, and Transformers.*
 
