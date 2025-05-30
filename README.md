@@ -14,11 +14,6 @@ Summer study group on connectionism and neural networks. We will read chapters f
 
 ---
 
-## 🗣 Zoom Link
-[https://iu.zoom.us/j/87594458181](https://iu.zoom.us/j/87594458181)
-
----
-
 ## 📚 Weekly Record
 
 | Week | Date & Time           | Topic                                                                    |
@@ -27,8 +22,13 @@ Summer study group on connectionism and neural networks. We will read chapters f
 | 2    | 2025-05-14 @ 11:00 AM | PDP Chapter 1: *The Appeal of Parallel Distributed Processing*           |
 | 3    | 2025-05-23 @ 10:30 AM | PDP Chapter 2: *A General Framework for Parallel Distributed Processing* |
 | 4    | 2025-05-30 @ 10:30 AM | COGS319 - Lab 2 - *Neural Networks That Don't Learn.ipynb*               |
+| 5    | 2025-06-06 @ 10:30 AM | PDP Chapter 3: *Distributed Representations*                             |
 | ...  | _To be scheduled_     | _To be updated_                                                          |
 
+---
+
+## 🗣 Zoom Link
+[https://iu.zoom.us/j/87594458181](https://iu.zoom.us/j/87594458181)
 
 ---
 
