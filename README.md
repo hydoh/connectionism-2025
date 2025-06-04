@@ -61,9 +61,3 @@ Summer study group on connectionism and neural networks. We will read chapters f
 
 - [**The moment we stopped understanding AI \[AlexNet\]**](https://youtu.be/UZDiGooFs54?si=tPUl4ZdoURbMf9N4)  
   _The first CNN (i.e., AlexNet) explained with good visualizations._
-
----
-
-## 🙌 How to Contribute
-
-Feel free to fork the repository, add notes or code for the week, and create pull requests.
