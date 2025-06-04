@@ -59,7 +59,7 @@ Summer study group on connectionism and neural networks. We will read chapters f
 - [**Hopfield network: How are memories stored in neural networks?**](https://youtu.be/piF6D6CQxUw?si=o-yhyvDf04ws0ceB)  
   _Hopfield networks as models of associative memory. Nobel Prize-winning concept in 2024._
 
-- [**The moment we stopped understanding AI \[AlexNet\]**](https://youtu.be/UZDiGooFs54?si=tPUl4ZdoURbMf9N4)
+- [**The moment we stopped understanding AI \[AlexNet\]**](https://youtu.be/UZDiGooFs54?si=tPUl4ZdoURbMf9N4)  
   _The first CNN (i.e., AlexNet) explained with good visualizations._
 
 ---
