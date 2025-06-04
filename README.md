@@ -1,7 +1,7 @@
 # 🧠 Study Group: Connectionism and Neural Networks  
 **Summer 2025 (Weekly Meetings)**
 
-Summer study group on connectionism and neural networks. We will read chapters from the *Parallel Distributed Processing* (PDP) volumes and do hands-on coding of neural networks that could be used for cognitive science research.
+Summer study group on connectionism and neural networks. We will read chapters from the *Parallel Distributed Processing* (PDP) volumes and do hands-on coding of neural networks used for cognitive science research.
 
 ---
 
@@ -42,10 +42,10 @@ Summer study group on connectionism and neural networks. We will read chapters f
 
 ### Additional Resources
 1. Jurafsky, D., & Martin, J. H. *Speech and Language Processing*.  
-   *A comprehensive introduction to computational models of language, covering CNNs, RNNs, and Transformers.*
+   _A comprehensive introduction to computational models of language, covering CNNs, RNNs, and Transformers._
 
 2. James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). *An Introduction to Statistical Learning with Applications in R*.  
-   *Introductory ML textbook; Chapter 10 covers neural networks with helpful visuals and math.*
+   _Introductory ML textbook; Chapter 10 covers neural networks with helpful visuals and math._
 
 3. **YouTube**: [Deep Learning & Machine Learning Playlist – Deeplizard](https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
 
@@ -53,11 +53,14 @@ Summer study group on connectionism and neural networks. We will read chapters f
 
 ## 🎥 Interesting Videos
 
-- [**Brief History of Neural Networks (by Vox)**](https://www.youtube.com/watch?v=OFS90-FX6pg)  
-  _A concise overview of the evolution of neural networks, with emphasis on RNNs and Transformers._
+- [**The 35 Year History of LLMs**](https://www.youtube.com/watch?v=OFS90-FX6pg)  
+  _The evolution of neural networks for language (i.e., RNNs and Transformers)._
 
-- [**Hopfield Networks Explained**](https://youtu.be/piF6D6CQxUw?si=o-yhyvDf04ws0ceB)  
-  _An intuitive explanation of Hopfield networks as models of associative memory. Nobel Prize-winning concept in 2024._
+- [**Hopfield network: How are memories stored in neural networks?**](https://youtu.be/piF6D6CQxUw?si=o-yhyvDf04ws0ceB)  
+  _Hopfield networks as models of associative memory. Nobel Prize-winning concept in 2024._
+
+- [**The moment we stopped understanding AI \[AlexNet\]**](https://youtu.be/UZDiGooFs54?si=tPUl4ZdoURbMf9N4)
+  _The first CNN (i.e., AlexNet) explained with good visualizations._
 
 ---
 
