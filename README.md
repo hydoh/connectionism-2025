@@ -1,11 +1,11 @@
-# 🧠 Study Group: Connectionism and Neural Networks  
+# Study Group: Connectionism and Neural Networks  
 **Summer 2025 (Weekly Meetings)**
 
 Summer study group on connectionism and neural networks. We will read chapters from the *Parallel Distributed Processing* (PDP) volumes and do hands-on coding of neural networks used for cognitive science research.
 
 ---
 
-## 👥 Members
+## Members
 - Ambar Narwal
 - Hoyoung Doh
 - Phillip Hegeman
@@ -14,7 +14,7 @@ Summer study group on connectionism and neural networks. We will read chapters f
 
 ---
 
-## 📚 Weekly Record
+## Weekly Record
 
 | Week | Date & Time           | Topic                                                                    |
 |------|-----------------------|--------------------------------------------------------------------------|
@@ -27,31 +27,31 @@ Summer study group on connectionism and neural networks. We will read chapters f
 
 ---
 
-## 🗣 Zoom Link
+## Zoom Link
 [https://iu.zoom.us/j/87594458181](https://iu.zoom.us/j/87594458181)
 
 ---
 
-## 📖 Resources
+## Resources
 [Link](https://indiana-my.sharepoint.com/:f:/g/personal/hdoh_iu_edu/EsDl4uiI0SxEqpRWWw4i8q4BhocvKALSkL_ujO5O0CPb-w?e=UGUuSl)
 
 ### Core resources
 1. Rumelhart, D. E., McClelland, J. L., & PDP Research Group. (1986). *Parallel distributed processing: Explorations in the microstructure of cognition: Foundations (Vol. 1)*. MIT Press.
 2. McClelland, J. L., Rumelhart, D. E., & PDP Research Group. (1987). *Parallel distributed processing: Explorations in the microstructure of cognition: Psychological and biological models (Vol. 2)*. MIT Press.
-3. **Code**: COGS319 Labs & Solutions
+3. \[Code\] COGS319 Labs & Solutions
 
 ### Additional Resources
-1. Jurafsky, D., & Martin, J. H. *Speech and Language Processing*.  
+1. Jurafsky, D., & Martin, J. H. *Speech and Language Processing.*  
    _A comprehensive introduction to computational models of language, covering CNNs, RNNs, and Transformers._
 
-2. James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). *An Introduction to Statistical Learning with Applications in R*.  
+2. James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). *An Introduction to Statistical Learning with Applications in R.*  
    _Introductory ML textbook; Chapter 10 covers neural networks with helpful visuals and math._
 
-3. **YouTube**: [Deep Learning & Machine Learning Playlist – Deeplizard](https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
+3. \[YouTube\] [Deep Learning & Machine Learning Playlist – Deeplizard](https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
 
 ---
 
-## 🎥 Interesting Videos
+## Interesting Videos
 
 - [**The 35 Year History of LLMs**](https://www.youtube.com/watch?v=OFS90-FX6pg)  
   _The evolution of neural networks for language (i.e., RNNs and Transformers)._
