@@ -35,12 +35,12 @@ Summer study group on connectionism and neural networks. We will read chapters f
 ## Resources
 [Link](https://indiana-my.sharepoint.com/:f:/g/personal/hdoh_iu_edu/EsDl4uiI0SxEqpRWWw4i8q4BhocvKALSkL_ujO5O0CPb-w?e=UGUuSl)
 
-### Core resources
+### Core Resources
 1. Rumelhart, D. E., McClelland, J. L., & PDP Research Group. (1986). *Parallel distributed processing: Explorations in the microstructure of cognition: Foundations (Vol. 1)*. MIT Press.
 2. McClelland, J. L., Rumelhart, D. E., & PDP Research Group. (1987). *Parallel distributed processing: Explorations in the microstructure of cognition: Psychological and biological models (Vol. 2)*. MIT Press.
 3. \[Code\] COGS319 Labs & Solutions
 
-### Additional Resources
+### Supplementary Resources
 1. Jurafsky, D., & Martin, J. H. *Speech and Language Processing.*  
    _A comprehensive introduction to computational models of language, covering CNNs, RNNs, and Transformers._
 
@@ -49,9 +49,7 @@ Summer study group on connectionism and neural networks. We will read chapters f
 
 3. \[YouTube\] [Deep Learning & Machine Learning Playlist – Deeplizard](https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
 
----
-
-## Interesting Videos
+### Interesting Videos
 
 - [**The 35 Year History of LLMs**](https://www.youtube.com/watch?v=OFS90-FX6pg)  
   _The evolution of neural networks for language (i.e., RNNs and Transformers)._
