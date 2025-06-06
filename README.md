@@ -16,14 +16,15 @@ Summer study group on connectionism and neural networks. We will read chapters f
 
 ## Weekly Record
 
-| Week | Date & Time           | Topic                                                                    |
-|------|-----------------------|--------------------------------------------------------------------------|
-| 1    | 2025-05-09 @ 1:30 PM  | Initial gathering                                                        |
-| 2    | 2025-05-14 @ 11:00 AM | PDP Chapter 1: *The Appeal of Parallel Distributed Processing*           |
-| 3    | 2025-05-23 @ 10:30 AM | PDP Chapter 2: *A General Framework for Parallel Distributed Processing* |
-| 4    | 2025-05-30 @ 10:30 AM | COGS319 - Lab 2 - *Neural Networks That Don't Learn.ipynb*               |
-| 5    | 2025-06-06 @ 10:30 AM | PDP Chapter 3: *Distributed Representations*                             |
-| ...  | _To be scheduled_     | _To be updated_                                                          |
+| Week | Date & Time           | Topic                                                                              |
+|------|-----------------------|------------------------------------------------------------------------------------|
+| 1    | 2025-05-09 @ 1:30 PM  | Initial gathering                                                                  |
+| 2    | 2025-05-14 @ 11:00 AM | PDP Chapter 1: *The Appeal of Parallel Distributed Processing*                     |
+| 3    | 2025-05-23 @ 10:30 AM | PDP Chapter 2: *A General Framework for Parallel Distributed Processing*           |
+| 4    | 2025-05-30 @ 10:30 AM | COGS319 - Lab 2 - *Neural Networks That Don't Learn.ipynb*                         |
+| 5    | 2025-06-06 @ 10:30 AM | PDP Chapter 3: *Distributed Representations*                                       |
+| 6    | 2025-06-13 @ 10:30 AM | COGS319 - Lab 3 - *Training neural networks, overfitting, and regularization*      |
+| ...  | _To be scheduled_     | _To be updated_                                                                    |
 
 ---
 
