@@ -55,8 +55,13 @@ Summer study group on connectionism and neural networks. We will read chapters f
 - [**The 35 Year History of LLMs**](https://www.youtube.com/watch?v=OFS90-FX6pg)  
   _The evolution of neural networks for language (i.e., RNNs and Transformers)._
 
+- [**The moment we stopped understanding AI \[AlexNet\]**](https://youtu.be/UZDiGooFs54?si=tPUl4ZdoURbMf9N4)  
+  _The first CNN (i.e., AlexNet) explained with good visualizations._
+
 - [**Hopfield network: How are memories stored in neural networks?**](https://youtu.be/piF6D6CQxUw?si=o-yhyvDf04ws0ceB)  
   _Hopfield networks as models of associative memory. Nobel Prize-winning concept in 2024._
 
-- [**The moment we stopped understanding AI \[AlexNet\]**](https://youtu.be/UZDiGooFs54?si=tPUl4ZdoURbMf9N4)  
-  _The first CNN (i.e., AlexNet) explained with good visualizations._
+- [**Neural Networks Playlist**](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=pgW_EO2SS2zQ5vma)  
+  _Intuitive explanations about the math behind neural networks by 3b1b._
+
+
