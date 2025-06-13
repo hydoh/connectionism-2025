@@ -24,6 +24,7 @@ Summer study group on connectionism and neural networks. We will read chapters f
 | 4    | 2025-05-30 @ 10:30 AM | COGS319 - Lab 2 - *Neural Networks That Don't Learn*                               |
 | 5    | 2025-06-06 @ 10:30 AM | PDP Chapter 3: *Distributed Representations*                                       |
 | 6    | 2025-06-13 @ 10:30 AM | COGS319 - Lab 3 - *Training neural networks, overfitting, and regularization*      |
+| 7    | 2025-06-20 @ 10:30 AM | PDP Chapter 4: *PDP Models and General Issues in Cognitive Science*                |
 | ...  | _To be scheduled_     | _To be updated_                                                                    |
 
 ---
