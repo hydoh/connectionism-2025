@@ -26,6 +26,7 @@ Summer study group on connectionism and neural networks. We will read chapters f
 | 6    | 2025-06-13 @ 10:30 AM | COGS319 - Lab 3 - *Training neural networks, overfitting, and regularization*      |
 | 7    | 2025-06-20 @ 10:30 AM | Postponed                                                                          |
 | 8    | 2025-06-27 @ 10:30 AM | PDP Chapter 4: *PDP Models and General Issues in Cognitive Science*                |
+| 9    | 2025-07-04 @ 10:30 AM | COGS319 - Lab 5 - *Finding structure in time with recurrent networks*              |
 | ...  | _To be scheduled_     | _To be updated_                                                                    |
 
 ---
