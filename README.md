@@ -21,13 +21,14 @@ Summer study group on connectionism and neural networks. We will read chapters f
 | 1    | 2025-05-09 @ 1:30 PM  | Initial gathering                                                                  |
 | 2    | 2025-05-14 @ 11:00 AM | PDP Chapter 1: *The Appeal of Parallel Distributed Processing*                     |
 | 3    | 2025-05-23 @ 10:30 AM | PDP Chapter 2: *A General Framework for Parallel Distributed Processing*           |
-| 4    | 2025-05-30 @ 10:30 AM | COGS319 - Lab 2 - *Neural Networks That Don't Learn*                               |
+| 4    | 2025-05-30 @ 10:30 AM | COGS319 Lab 2: *Neural Networks That Don't Learn*                                  |
 | 5    | 2025-06-06 @ 10:30 AM | PDP Chapter 3: *Distributed Representations*                                       |
-| 6    | 2025-06-13 @ 10:30 AM | COGS319 - Lab 3 - *Training neural networks, overfitting, and regularization*      |
+| 6    | 2025-06-13 @ 10:30 AM | COGS319 Lab 3: *Training neural networks, overfitting, and regularization*         |
 | 7    | 2025-06-20 @ 10:30 AM | Postponed                                                                          |
 | 8    | 2025-06-27 @ 10:30 AM | PDP Chapter 4: *PDP Models and General Issues in Cognitive Science*                |
 | 9    | 2025-07-04 @ 10:30 AM | Postponed                                                                          |
-| 10   | 2025-07-10 @ 10:30 AM | COGS319 - Lab 5 - *Finding structure in time with recurrent networks*              |
+| 10   | 2025-07-10 @ 10:30 AM | COGS319 Lab 5: *Finding structure in time with recurrent networks*                 |
+| 11   | 2025-07-17 @ 10:30 AM | PDP Chapter 8: *Learning Internal Representations by Error Propagation*            |
 | ...  | _To be scheduled_     | _To be updated_                                                                    |
 
 ---
